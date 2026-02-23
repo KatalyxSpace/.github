@@ -7,7 +7,7 @@
   web platforms, and digital products. No fluff. No delays. Just precision engineering.
 
   [![Website](https://img.shields.io/badge/Website-katalyx.space-black?style=for-the-badge)](https://katalyx.space)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Katalyx-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/katalyx)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Katalyx-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/katalyx-space)
   [![Twitter](https://img.shields.io/badge/Twitter-@katalyx-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/katalyx)
   [![Contact](https://img.shields.io/badge/Email-hello@katalyx.space-red?style=for-the-badge)](mailto:hello@katalyx.space)
   [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/katalyxspace)
