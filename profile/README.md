@@ -3,8 +3,6 @@
 
   # Built to Perform. Engineered to Scale.
 
-  **Precision Mobile & Web Development Agency**
-
   We partner with founders to design, build, and ship mobile apps,
   web platforms, and digital products. No fluff. No delays. Just precision engineering.
 
@@ -12,20 +10,31 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Katalyx-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/katalyx)
   [![Twitter](https://img.shields.io/badge/Twitter-@katalyx-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/katalyx)
   [![Contact](https://img.shields.io/badge/Email-hello@katalyx.space-red?style=for-the-badge)](mailto:hello@katalyx.space)
+  [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/katalyxspace)
 </div>
+
+---
+
+## 🙋 Who We Are
+
+> **Katalyx** is a mobile-first development agency that partners with founders to design, build, and ship world-class apps and digital products — from concept to deployment. No bloat. Just execution.
+
+- 🌍 **Global expertise. Focused execution.** — North America · Europe · UAE
+- 📱 **Mobile-first** — apps built for performance, retention, and scale
+- 🏆 Senior engineers. Boutique accountability. Zero hand-holding required.
 
 ---
 
 ## 🚀 What We Build
 
-| Service | Technologies |
+| Service | What You Get |
 |---|---|
-| 📱 **Mobile Apps** | React Native, Flutter, iOS, Android |
-| 🌐 **Web Applications** | React, Next.js, TypeScript |
-| 🎨 **UX/UI Design** | Design Systems, Prototyping, Research |
-| ⚙️ **Backend & APIs** | Node.js, PostgreSQL, AWS |
-| 📈 **Conversion Optimization** | A/B Testing, Analytics, CRO |
-| 🧭 **Tech Strategy** | Architecture, Roadmapping, Advisory |
+| 📱 **Mobile Apps** | Launch-ready apps users love — React Native  |
+| 🌐 **Web Applications** | Fast, scalable platforms built to handle real growth |
+| 🎨 **UX/UI Design** | Interfaces that convert — not just look good |
+| ⚙️ **Backend & APIs** | Reliable infrastructure that scales without breaking |
+| 📈 **Conversion Optimization** | More revenue from the traffic you already have |
+| 🧭 **Technical Advisory** | Clear technical direction so you make the right bets early |
 
 ---
 
